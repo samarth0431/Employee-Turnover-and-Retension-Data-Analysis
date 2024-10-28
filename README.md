@@ -1,1 +1,2 @@
 # Employee-Turnover-and-Retension-Data-Analysis
+"Conducted an in-depth analysis of factors influencing employee turnover and retention, focusing on demographics, job satisfaction, work-life balance, and compensation. Utilized Independent Samples T-Tests, Chi-Square tests, and regression analysis to identify key turnover drivers, predict retention trends, and propose data-driven strategies to enhance workforce stability and satisfaction."
